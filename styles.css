@@ -1,0 +1,42 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;}
+
+main {
+    margin: 1rem;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.all-access, .download {
+    background-color: #fbbe4e;
+}
+
+.all-access {
+    margin-bottom: 5rem;
+    padding: 1rem;
+}
+
+footer {
+    text-align: center;
+
+}
+
+ul {
+    background-color: black;
+    height: 57px;
+}
+
+li {
+    display: inline-block;
+    padding: 1rem;
+    color: white;
+}
+
+
